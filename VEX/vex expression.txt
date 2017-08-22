@@ -1,0 +1,5 @@
+// change le seed toute les n frames
+floor (@Frame/n)
+
+// rotation a un tour seconde
+fit (@Frame%25,1,25,0,360)
